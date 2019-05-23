@@ -1,0 +1,45 @@
+/*
+* Hannah Solge 
+* Due Date
+* Why summer is the best season
+*/
+
+/* The university selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    font-family: fantasy;
+   background:#fffb9e
+ /*this will be the color for the background of the webpage*/
+}
+
+header{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    background:#afd2ff 
+    /*this will be the background of the header section only*/
+}
+
+img{
+    width:350px;
+    height:250px;
+    float:right;    
+}
+
+main{
+    background:#f97777
+    /*this will show the color for the main section*/
+}
+a:link{color: #f7ad62} a:hover{color:#f7b094;}, a:focus{color:#f24907}
+
+footer {
+    background:#94f797
+    /*this shows the color for the footer only*/
+}
+
